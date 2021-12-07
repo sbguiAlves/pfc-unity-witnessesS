@@ -16,7 +16,7 @@
 
 ## Objetivo
 - Desenvolvimento do processo de tomada de decisão para NPCs para um jogo digital, utilizando técnicas de IA.
-- <b>Tecnologias de apoio:</b> Unity (C#) 
+- <b>Tecnologias de apoio:</b> Unity (C#). 
 
 ## Link para Download
 - https://zsb-gui.itch.io/witnessess 
