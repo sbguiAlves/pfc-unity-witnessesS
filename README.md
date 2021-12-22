@@ -21,7 +21,8 @@
 ## Link para Download
 
 <h1 align="center">
-  <img alt="WitnessesS" title="Witnessess-game" src="./ingameW.png" width="800"/>
+  - https://zsb-gui.itch.io/witnessess 
+  <img alt="WitnessesS" title="Witnessess-game" src="./ingameW.png" width="600"/>
 </h1>
 
-- https://zsb-gui.itch.io/witnessess 
+
