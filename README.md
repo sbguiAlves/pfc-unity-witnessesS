@@ -19,10 +19,11 @@
 - <b>Tecnologias de apoio:</b> Unity (C#). 
 
 ## Link para Download
+  - https://zsb-gui.itch.io/witnessess 
 
 <h1 align="center">
-  - https://zsb-gui.itch.io/witnessess 
-  <img alt="WitnessesS" title="Witnessess-game" src="./ingameW.png" width="600"/>
+
+  <img alt="WitnessesS" title="Witnessess-game" src="./ingameW.png" width="720"/>
 </h1>
 
 
